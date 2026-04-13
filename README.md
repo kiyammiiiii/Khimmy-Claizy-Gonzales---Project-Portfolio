@@ -71,7 +71,7 @@ GitHub Link: [H.A.N.D.A](https://github.com/kiyammiiiii/Capstone_Project)
 
 # Certificates and Trainings
 
-### Certificates
+### [Certificates](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Project-Portfolio/tree/main/Certificates)
 
 * Intro to programming  | Kaggle | April 17, 2024 
 * Data Analytics Essential Course 
@@ -105,11 +105,11 @@ GitHub Link: [H.A.N.D.A](https://github.com/kiyammiiiii/Capstone_Project)
 
 # Contacts
 
-Feel free to contact me through my LinkedIn and personal Email Address
+Contact me through my LinkedIn and personal Email Address
 
-khimmyclaizyg@gmail.com
+Email Addresss: khimmyclaizyg@gmail.com
 
-[Khimmy Claizy Gonzales](https://www.linkedin.com/in/khimmy-gonzales-8ba011258/)
+LindkedIn: Khimmy Claizy Gonzales](https://www.linkedin.com/in/khimmy-gonzales-8ba011258/)
 
 Phone Number: +639915111868
 
