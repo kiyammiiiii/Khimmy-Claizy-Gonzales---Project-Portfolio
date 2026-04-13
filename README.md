@@ -71,30 +71,28 @@ GitHub Link: [H.A.N.D.A](https://github.com/kiyammiiiii/Capstone_Project)
 
 # Certificates and Trainings
 
-* Intro to programming  
-Kaggle 
-April 17, 2024 
+* Intro to programming  | Kaggle | April 17, 2024 
 * Data Analytics Essential Course 
-Cisco Networking Academy 
-March 25, 2024 
+| Cisco Networking Academy 
+| March 25, 2024 
 * NoSQL and DBaaS 101 
-Cognitive Class 
-May 04, 2023 
+| Cognitive Class 
+| May 04, 2023 
 * Fundamentals of Javascript through rock-paper-scissors 
-Cognitive Class 
-May 04, 2023 
+| Cognitive Class 
+| May 04, 2023 
 * BIG Data 101 
-Cognitive Class 
-April 27, 2023 
+| Cognitive Class 
+| April 27, 2023 
 * Oracle Cloud Data Management 2022 Foundations Associate 
-Oracle University 
-November 28, 2022 
+| Oracle University 
+| November 28, 2022 
 * Oracle CloudOracle Cloud Infrastructure 2022 Foundations Associatee 
-Oracle University 
-November 20, 2022 
+| Oracle University 
+| November 20, 2022 
 * SQL and Relational Databases 101 
-Cognitive Class 
-November 4, 2022
+| Cognitive Class 
+| November 4, 2022
 
 # Contacts
 
