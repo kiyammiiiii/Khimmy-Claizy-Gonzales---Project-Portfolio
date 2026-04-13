@@ -14,8 +14,8 @@ Download my [Resume](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Pro
 
 * [About](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Project-Portfolio?tab=readme-ov-file#about)
 * [Portfolio Projects]
-    * [Python Projects]()
-      * [Project Gambit : Personal Finance Assistant](https://github.com/kiyammiiiii/Python-Projects/tree/main/project_gambit)
+    * [Python Projects](#python-projects)
+      * [Project Gambit : Personal Finance Assistant](#project-name-gambit--smart-personal-finance-assistant)
     * [Capstone Project](https://github.com/kiyammiiiii/Capstone_Project)
       * [H.A.N.D.A. (Hotline Alarm Notification and Detection Assistant)](https://github.com/kiyammiiiii/Capstone_Project)
 * [Education](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Project-Portfolio?tab=readme-ov-file#education)
@@ -42,7 +42,9 @@ Technologies: Python, Pandas, Plotly, Streamlit, Linear Regression, Data Visuali
 
 Code : [Project Gambit](https://github.com/kiyammiiiii/Python-Projects/tree/main/project_gambit)
 
-Project Name: Hotline Alarm Notification and Detection Assistant (H.A.N.D.A) : Ensuring Fire Safety with Instant Alerts for Residents using IoT
+## Capstone Project
+
+### Project Name: Hotline Alarm Notification and Detection Assistant (H.A.N.D.A) : Ensuring Fire Safety with Instant Alerts for Residents using IoT
 
 Description:
 
