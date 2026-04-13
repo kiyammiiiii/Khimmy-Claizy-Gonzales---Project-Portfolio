@@ -12,15 +12,15 @@ Download my [Resume](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Pro
 
 # Table of Contents
 
-* [About](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Project-Portfolio?tab=readme-ov-file#about)
+* [About](#about)
 * [Portfolio Projects]
     * [Python Projects](#python-projects)
       * [Project Gambit : Personal Finance Assistant](#project-name-gambit--smart-personal-finance-assistant)
-    * [Capstone Project](https://github.com/kiyammiiiii/Capstone_Project)
-      * [H.A.N.D.A. (Hotline Alarm Notification and Detection Assistant)](https://github.com/kiyammiiiii/Capstone_Project)
-* [Education](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Project-Portfolio?tab=readme-ov-file#education)
-* [Certifications](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Project-Portfolio?tab=readme-ov-file#education)
-* [Contacts](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Project-Portfolio?tab=readme-ov-file#education)
+    * [Capstone Project](#capstone-project)
+      * [H.A.N.D.A. (Hotline Alarm Notification and Detection Assistant)](#project-name-hotline-alarm-notification-and-detection-assistant-handa--ensuring-fire-safety-with-instant-alerts-for-residents-using-iot)
+* [Education](#education)
+* [Certifications](#certifications)
+* [Contacts](#contacts)
 
 # Portfolio Projects
 
