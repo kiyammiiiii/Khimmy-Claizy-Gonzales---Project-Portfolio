@@ -14,7 +14,7 @@ Download my [Resume](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Pro
 
 * [About](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Project-Portfolio?tab=readme-ov-file#about)
 * [Portfolio Projects]
-    * [Python Projects](https://github.com/kiyammiiiii/Python-Projects)
+    * [Python Projects]()
       * [Project Gambit : Personal Finance Assistant](https://github.com/kiyammiiiii/Python-Projects/tree/main/project_gambit)
     * [Capstone Project](https://github.com/kiyammiiiii/Capstone_Project)
       * [H.A.N.D.A. (Hotline Alarm Notification and Detection Assistant)](https://github.com/kiyammiiiii/Capstone_Project)
@@ -26,7 +26,9 @@ Download my [Resume](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Pro
 
 In this section I will list my projects briefly describing the technology stack used to solve cases.
 
-Project Name: Gambit – Smart Personal Finance Assistant
+   # Python Projects
+
+# Project Name: Gambit – Smart Personal Finance Assistant
 
 Description:
 
