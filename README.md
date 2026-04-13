@@ -20,9 +20,9 @@ Download my [Resume](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Pro
 * [Portfolio Projects]
     * [Python Projects](https://github.com/kiyammiiiii/Python-Projects)
       * [Project Gambit : Personal Finance Assistant](https://github.com/kiyammiiiii/Python-Projects/tree/main/project_gambit)
-* [Education] ()
-* [Certifications] ()
-* [Contacts] ()
+* [Education]()
+* [Certifications]()
+* [Contacts]()
 
 # Portfolio Projects
 
@@ -45,5 +45,21 @@ Description:
 Technologies: Python, Pandas, Plotly, Streamlit, Linear Regression, Data Visualization
 
 Code : [Project Gambit](https://github.com/kiyammiiiii/Python-Projects/tree/main/project_gambit)
+
+# Education
+
+* Bachelor of Science in Information Technology
+  Cum Laude
+  New Era University
+  August 2021 - June 2026
+
+# Certificates
+
+# Contacts
+
+Feel free to contact me through my LinkedIn and personal Email Address
+khimmyclaizyg@gmail.com
+[Khimmy Claizy Gonzales](https://www.linkedin.com/in/khimmy-gonzales-8ba011258/)
+Phone Number: +639915111868
 
 
