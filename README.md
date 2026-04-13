@@ -2,15 +2,11 @@
 
 # About
 
-I am Khimmy Claizy Gonzales, a graduate of Bachelor of Science in Information Technology. During my studies, I developed a strong foundation in programming, database management, and system development. I worked on various projects that enhanced my problem-solving skills, critical thinking, and attention to detail.
+I am Khimmy Claizy Gonzales, a graduate of Bachelor of Science in Information Technology. 
+I am a versatile IT professional with expertise in data analytics, UI design, and software development. Skilledin leveraging data-driven insights, creating user-friendly interfaces, and building robust web  and mobile applications, I am passionate about delivering innovative solutions that enhance user experiences and drive
+business success.
 
-As I progressed through my academic journey, I discovered a growing interest in data analysis. I became fascinated with how data can be transformed into meaningful insights that support decision-making and improve processes. This interest motivated me to explore data handling, visualization, and interpretation techniques, as well as tools commonly used in the field.
-
-I am particularly interested in analyzing patterns, identifying trends, and presenting data in a clear and impactful way. I am eager to further develop my skills in data analytics, including learning tools such as Excel, SQL, Python, and data visualization platforms. I am also motivated to continuously learn and adapt to new technologies in order to become an effective and reliable data analyst.
-
-With my background in IT and my passion for data, I am confident in my ability to contribute to data-driven projects and grow professionally in the field of data analysis.
-
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+This is a repository to showcase skills, share projects.
 
 Download my [Resume](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Project-Portfolio/blob/main/Resume_Gonzales%20(1).pdf)
 
@@ -20,6 +16,8 @@ Download my [Resume](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Pro
 * [Portfolio Projects]
     * [Python Projects](https://github.com/kiyammiiiii/Python-Projects)
       * [Project Gambit : Personal Finance Assistant](https://github.com/kiyammiiiii/Python-Projects/tree/main/project_gambit)
+    * [Capstone Project](https://github.com/kiyammiiiii/Capstone_Project)
+      * [H.A.N.D.A. (Hotline Alarm Notification and Detection Assistant)](https://github.com/kiyammiiiii/Capstone_Project)
 * [Education](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Project-Portfolio?tab=readme-ov-file#education)
 * [Certifications](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Project-Portfolio?tab=readme-ov-file#education)
 * [Contacts](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Project-Portfolio?tab=readme-ov-file#education)
