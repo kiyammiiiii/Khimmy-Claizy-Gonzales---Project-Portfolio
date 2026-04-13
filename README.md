@@ -18,8 +18,8 @@ Download my [Resume](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Pro
 
 * [About](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Project-Portfolio?tab=readme-ov-file#about)
 * [Portfolio Projects]
-    * [Python Projects] (https://github.com/kiyammiiiii/Python-Projects)
-      * [Project Gambit : Personal Finance Assistant] (https://github.com/kiyammiiiii/Python-Projects/tree/main/project_gambit)
+    * [Python Projects](https://github.com/kiyammiiiii/Python-Projects)
+      * [Project Gambit : Personal Finance Assistant](https://github.com/kiyammiiiii/Python-Projects/tree/main/project_gambit)
 * [Education] ()
 * [Certifications] ()
 * [Contacts] ()
@@ -44,6 +44,6 @@ Description:
 
 Technologies: Python, Pandas, Plotly, Streamlit, Linear Regression, Data Visualization
 
-Code : [Project Gambit] (https://github.com/kiyammiiiii/Python-Projects/tree/main/project_gambit)
+Code : [Project Gambit](https://github.com/kiyammiiiii/Python-Projects/tree/main/project_gambit)
 
 
