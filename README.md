@@ -19,7 +19,7 @@ Download my [Resume](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Pro
     * [Capstone Project](#capstone-project)
       * [H.A.N.D.A. (Hotline Alarm Notification and Detection Assistant)](#project-name-hotline-alarm-notification-and-detection-assistant-handa--ensuring-fire-safety-with-instant-alerts-for-residents-using-iot)
 * [Education](#education)
-* [Certificates and Trainings](#certifications)
+* [Certificates and Trainings](#certificates-and-trainings)
 * [Contacts](#contacts)
 
 # Portfolio Projects
@@ -71,6 +71,8 @@ GitHub Link: [H.A.N.D.A](https://github.com/kiyammiiiii/Capstone_Project)
 
 # Certificates and Trainings
 
+### Certificates
+
 * Intro to programming  | Kaggle | April 17, 2024 
 * Data Analytics Essential Course 
 | Cisco Networking Academy 
@@ -93,6 +95,13 @@ GitHub Link: [H.A.N.D.A](https://github.com/kiyammiiiii/Capstone_Project)
 * SQL and Relational Databases 101 
 | Cognitive Class 
 | November 4, 2022
+
+### Trainings and Seminars
+
+* Basic Cybersecurity Training 
+| New Era University Hall 
+| 9 Central Ave, Quezon City, 1107 Metro Manila 
+| April 1-5, 2024 
 
 # Contacts
 
