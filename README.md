@@ -26,9 +26,9 @@ Download my [Resume](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Pro
 
 In this section I will list my projects briefly describing the technology stack used to solve cases.
 
-   # Python Projects
+## Python Projects
 
-# Project Name: Gambit – Smart Personal Finance Assistant
+### Project Name: Gambit – Smart Personal Finance Assistant
 
 Description:
 
