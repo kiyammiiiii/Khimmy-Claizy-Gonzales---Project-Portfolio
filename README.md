@@ -49,8 +49,11 @@ Code : [Project Gambit](https://github.com/kiyammiiiii/Python-Projects/tree/main
 # Education
 
 * Bachelor of Science in Information Technology
+
 Cum Laude
+
 New Era University
+
 August 2021 - June 2026
 
 # Certificates
