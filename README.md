@@ -31,13 +31,9 @@ Project Name: Gambit – Smart Personal Finance Assistant
 Description:
 
 * Developed an interactive dashboard using Python, Streamlit, and Plotly to visualize personal finance data.
-
 * Automated expense categorization (Food, Utilities, Transport, Shopping, Entertainment, Other) from bank statements.
-
 * Implemented monthly trend analysis, category breakdowns, and predictive modeling using linear regression to forecast next month’s spending.
-
 * Added searchable raw data table and personalized insights/advice for better financial decision-making.
-
 * Designed interactive pie charts and line charts for per-category and monthly expense analysis.
 
 Technologies: Python, Pandas, Plotly, Streamlit, Linear Regression, Data Visualization
@@ -56,6 +52,7 @@ Description:
 * Designed a real-time monitoring dashboard with Firebase integration for sensor data visualization and user management.
 
 Technologies: Arduino UNO, ESP32-CAM, Android Studio (Kotlin), Firebase Realtime Database, Firebase Firestore, IoT Sensors(DHT11, MQ2, IR Sensor), Twilio, Ngrok
+
 GitHub Link: [H.A.N.D.A](https://github.com/kiyammiiiii/Capstone_Project)
 
 # Education
