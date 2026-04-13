@@ -24,7 +24,7 @@ Download my [Resume](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Pro
 
 # Portfolio Projects
 
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+In this section I will list my projects briefly describing the technology stack used to solve cases.
 
 Project Name: Gambit – Smart Personal Finance Assistant
 
@@ -43,6 +43,20 @@ Description:
 Technologies: Python, Pandas, Plotly, Streamlit, Linear Regression, Data Visualization
 
 Code : [Project Gambit](https://github.com/kiyammiiiii/Python-Projects/tree/main/project_gambit)
+
+Project Name: Hotline Alarm Notification and Detection Assistant (H.A.N.D.A) : Ensuring Fire Safety with Instant Alerts for Residents using IoT
+
+Description:
+
+* Developed an IoT-based fire detection and emergency alert system using Arduino,ESP32/ESP32-CAM, Firebase, and Android.
+* Integrated temperature (DHT11), smoke (MQ-2), and flame (IR) sensors to monitor environmentalconditions in real time.
+* Implemented intelligent threshold-based detection and multi-level alert mechanisms for earlyfire warning.
+* Built an Android application that triggers full-screen emergency notifications with sound, vibration, flashlight, and image capture.
+* Enabled automatic sequential hotline calling and barangay-based emergency contact retrieval for faster response.
+* Designed a real-time monitoring dashboard with Firebase integration for sensor data visualization and user management.
+
+Technologies: Arduino UNO, ESP32-CAM, Android Studio (Kotlin), Firebase Realtime Database, Firebase Firestore, IoT Sensors(DHT11, MQ2, IR Sensor), Twilio, Ngrok
+GitHub Link: [H.A.N.D.A](https://github.com/kiyammiiiii/Capstone_Project)
 
 # Education
 
