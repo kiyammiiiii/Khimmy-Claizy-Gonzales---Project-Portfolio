@@ -19,7 +19,7 @@ Download my [Resume](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Pro
     * [Capstone Project](#capstone-project)
       * [H.A.N.D.A. (Hotline Alarm Notification and Detection Assistant)](#project-name-hotline-alarm-notification-and-detection-assistant-handa--ensuring-fire-safety-with-instant-alerts-for-residents-using-iot)
 * [Education](#education)
-* [Certifications](#certifications)
+* [Certificates and Trainings](#certifications)
 * [Contacts](#contacts)
 
 # Portfolio Projects
