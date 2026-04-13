@@ -62,9 +62,9 @@ GitHub Link: [H.A.N.D.A](https://github.com/kiyammiiiii/Capstone_Project)
 # Education
 
 * Bachelor of Science in Information Technology
-   Cum Laude
-   New Era University
-   August 2021 - June 2026
+  Cum Laude
+  New Era University
+  August 2021 - June 2026
 
 # Certificates and Trainings
 
