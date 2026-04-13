@@ -12,4 +12,4 @@ With my background in IT and my passion for data, I am confident in my ability t
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-Download my [Resume]()
+Download my [Resume](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Project-Portfolio/blob/main/Resume_Gonzales%20(1).pdf)
