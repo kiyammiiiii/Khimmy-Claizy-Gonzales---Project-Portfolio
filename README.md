@@ -13,7 +13,7 @@ Download my [Resume](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Pro
 # Table of Contents
 
 * [About](#about)
-* [Portfolio Projects]
+* [Portfolio Projects](#portfolio-projects)
     * [Python Projects](#python-projects)
       * [Project Gambit : Personal Finance Assistant](#project-name-gambit--smart-personal-finance-assistant)
     * [Capstone Project](#capstone-project)
