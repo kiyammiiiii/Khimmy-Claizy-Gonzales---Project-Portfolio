@@ -18,6 +18,9 @@ Download my [Resume](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Pro
       * [Project Gambit : Personal Finance Assistant](#project-name-gambit--smart-personal-finance-assistant)
     * [Capstone Project](#capstone-project)
       * [H.A.N.D.A. (Hotline Alarm Notification and Detection Assistant)](#project-name-hotline-alarm-notification-and-detection-assistant-handa--ensuring-fire-safety-with-instant-alerts-for-residents-using-iot)
+    *[Graphics and Web Design Projects](#graphics-and-web-design-projects)
+    * [JavaScript Projects](#javascript-projects)
+    * [Java Projects](#java-projects)
 * [Education](#education)
 * [Certificates and Trainings](#certificates-and-trainings)
 * [Contacts](#contacts)
@@ -42,6 +45,8 @@ Technologies: Python, Pandas, Plotly, Streamlit, Linear Regression, Data Visuali
 
 Code : [Project Gambit](https://github.com/kiyammiiiii/Python-Projects/tree/main/project_gambit)
 
+[Other Python Projects](https://github.com/kiyammiiiii/Python-Projects)
+
 ## Capstone Project
 
 ### Project Name: Hotline Alarm Notification and Detection Assistant (H.A.N.D.A) : Ensuring Fire Safety with Instant Alerts for Residents using IoT
@@ -58,6 +63,24 @@ Description:
 Technologies: Arduino UNO, ESP32-CAM, Android Studio (Kotlin), Firebase Realtime Database, Firebase Firestore, IoT Sensors(DHT11, MQ2, IR Sensor), Twilio, Ngrok
 
 GitHub Link: [H.A.N.D.A](https://github.com/kiyammiiiii/Capstone_Project)
+
+## Graphics and Web Design Projects
+
+Github Link: [Graphics and Web Design Projects](https://github.com/kiyammiiiii/Graphics-and-Web-Design-Projects)
+
+## JavaScript Projects
+
+Github Link: [JavaScript Projects](https://github.com/kiyammiiiii/JavaScript-Projects)
+
+## Java Projects
+
+Github Link: [Java Projects](https://github.com/kiyammiiiii/Java-Projects)
+
+## Mobile Development Projects
+
+Github Link: [Android Studio Projects](https://github.com/kiyammiiiii/Android-Studio-Projects)
+
+
 
 # Education
 
