@@ -21,6 +21,7 @@ Download my [Resume](https://github.com/kiyammiiiii/Khimmy-Claizy-Gonzales---Pro
     *[Graphics and Web Design Projects](#graphics-and-web-design-projects)
     * [JavaScript Projects](#javascript-projects)
     * [Java Projects](#java-projects)
+    * [Mobile Development Projects](#mobile-development-projects)
 * [Education](#education)
 * [Certificates and Trainings](#certificates-and-trainings)
 * [Contacts](#contacts)
